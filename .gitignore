@@ -1,0 +1,9 @@
+/build/
+/dist/
+/nbproject/
+
+/src/controller/ball.java
+
+/*.png
+/build.xml
+/manifest.mf
